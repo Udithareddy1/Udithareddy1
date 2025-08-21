@@ -1,11 +1,6 @@
 # 👋 Hey there, I'm Uditha Reddy!  
 
-💻 Master's Student | 📊 Data Science Enthusiast | 🚀 Exploring AI, ML & Full-Stack Development  
-
-[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue?style=for-the-badge)](https://yourportfolio.com) 
-[![LinkedIn](https://www.linkedin.com/in/uditha-reddy-72922222a/) 
-[![GitHub Followers](https://github.com/Udithareddy1)  
-
+💻 Master's Student | 📊 Data Science Enthusiast | 🚀 Exploring AI, ML & Full-Stack Development 
 ---
 
 ## 🚀 About Me  
