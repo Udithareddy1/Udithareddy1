@@ -3,20 +3,14 @@
 💻 Master's Student | 📊 Data Science Enthusiast | 🚀 Exploring AI, ML & Full-Stack Development  
 
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue?style=for-the-badge)](https://yourportfolio.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile) 
-[![GitHub Followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge)](https://github.com/yourusername)  
+[![LinkedIn](https://www.linkedin.com/in/uditha-reddy-72922222a/) 
+[![GitHub Followers](https://github.com/Udithareddy1)  
 
 ---
 
 ## 🚀 About Me  
 
-- 🎓 Pursuing **Master’s in Data Science**  
-- 📊 Passionate about **Business Analytics & Data Analytics**  
-- 🤖 Enthusiastic about **Machine Learning, NLP, and Databases**  
-- 🌱 Currently learning **Spring Boot & Full-Stack Development**  
-- ⚡ *Fun fact:* I love building projects that mix **creativity + tech**  
-
----
+-I am Uditha Reddy, a passionate learner and a Master’s student in Data Science. My core interests lie in Business Analytics, Data Analytics, and Artificial Intelligence. I enjoy solving problems with Python, Java, SQL, and Neo4j by blending analytical skills with creativity. I have hands-on experience in Machine Learning, NLP, and Data Visualization tools like Power BI and Excel.I believe that data-driven insights can create impactful real-world solutions across industries. Apart from technical skills, I love working on creative projects that combine design and technology. I am curious, adaptable, and always eager to learn new tools, frameworks, and technologies. Collaboration and knowledge-sharing are values I truly believe in, which is why I contribute to projects on GitHub. My ultimate goal is to grow as a Data Scientist/Analyst and use technology to make a positive impact.
 
 ## 🛠️ Tech Stack  
 
