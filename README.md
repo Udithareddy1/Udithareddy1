@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Uditha Reddy!  
 
-💻 Master's Student | 📊 Data Science Enthusiast | 🚀 Exploring AI, ML & Full-Stack Development 
+💻 Master's Student | 📊 Data Science Enthusiast | 🚀 Exploring AI, ML
 ---
 
 ## 🚀 About Me  
